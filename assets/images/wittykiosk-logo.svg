@@ -1,0 +1,10 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="107.18mm" height="21.35mm" viewBox="0 0 303.82 60.52">
+  <title>wittykiosk-logo</title>
+  <line x1="1.42" y1="1.42" x2="1.42" y2="39.53" fill="none" stroke="#2b8fc0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.83"/>
+  <line x1="53.18" y1="1.42" x2="53.22" y2="41.59" fill="none" stroke="#2b8fc0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.83"/>
+  <path d="M4140,4247c0-7.82-11.59-14.17-25.88-14.17s-25.88,6.3-25.88,14.13v15.85l0,3.43c0,6.66,11.58,12.07,25.86,12.07s25.86-5.4,25.86-12.07l0-3.18Z" transform="translate(-4086.82 -4221.47)" fill="none" stroke="#2b8fc0" stroke-miterlimit="10" stroke-width="2.83"/>
+  <text transform="translate(64.68 48.54)" font-size="45.74" fill="#2b91c1" font-family="Comfortaa-Regular, Comfortaa">Wittykiosk</text>
+  <rect x="8.93" y="27.45" width="37.17" height="18" rx="8.59" ry="8.59" fill="none" stroke="#2b8fc0" stroke-miterlimit="10" stroke-width="2.83"/>
+  <path d="M4127.51,4258.13c-.06,1.09-1.1,1.72-1.44,1.29-1.95-2.44-5.34,1.87-6.39-1.13-.6-1.69,2-2.62,3.76-2.68A4,4,0,0,1,4127.51,4258.13Z" transform="translate(-4086.82 -4221.47)" fill="#2b8fc0"/>
+  <path d="M4100.59,4258.13c.06,1.09,1.1,1.72,1.44,1.29,1.95-2.44,5.34,1.87,6.39-1.13.6-1.69-2-2.62-3.76-2.68A4,4,0,0,0,4100.59,4258.13Z" transform="translate(-4086.82 -4221.47)" fill="#2b8fc0"/>
+</svg>
