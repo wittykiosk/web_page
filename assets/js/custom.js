@@ -87,8 +87,8 @@
     /*---------------------------------------------------
         Site Preloader
     ----------------------------------------------------*/
-    $(window).on('load', function () {
-        $('.site-preloader').fadeOut(500);
-    });
+    // $(window).on('load', function () {
+    //     $('.site-preloader').fadeOut(500);
+    // });
 
 }(jQuery));
