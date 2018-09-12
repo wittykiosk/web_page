@@ -1,0 +1,22 @@
+html,
+body {
+    font-size: 18px;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+.explanation-content {
+    font-size: 20px;
+    margin-bottom: 2em;
+}
+
+.explanation-content-more {
+
+    font-size: 17px;
+}
+
+.features-single {
+    height: 300px;
+}
