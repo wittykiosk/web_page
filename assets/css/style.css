@@ -578,9 +578,7 @@ nav.navbar.bootsnav ul.nav > li.active > a {
 }
 
 .why-choose-content ul li {
-    display: block;
     padding: 4px 0;
-    font-weight: 500;
     color: #555
 }
 
